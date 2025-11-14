@@ -1,3 +1,9 @@
 venv/
 #artifacts/
 logs/
+.env
+.ipynb_checkpoints/
+docker-compose.override.yml
+docker-compose.yml
+Dockerfile
+.dockerignore
